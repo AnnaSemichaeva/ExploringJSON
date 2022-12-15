@@ -1,0 +1,288 @@
+{
+    "age_limit": 18,
+    "attributes": {
+        "facets": {},
+        "next": []
+    },
+    "bucket": "games",
+    "container_type": "product",
+    "content_origin": 0,
+    "content_rating": {
+        "description": "Rating18+",
+        "rating_system": "RAR",
+        "url": "https://cdn-a.sonyentertainmentnetwork.com/grc/images/ratings/hd/rar/18.png"
+    },
+    "content_type": "1",
+    "dob_required": true,
+    "gameContentTypesList": [
+        {
+            "name": "Комплект",
+            "key": "BUNDLE"
+        }
+    ],
+    "game_contentType": "Комплект",
+    "id": "EP0001-CUSA13035_00-WDLSTND000000000",
+    "images": [
+        {
+            "type": 10,
+            "url": "https://vulcan.dl.playstation.net/ap/rnd/202007/0200/ohDfr1TcylLqbwva38ONyLHO.png"
+        }
+    ],
+    "legal_text": "<br/>©2020 Ubisoft Entertainment. All Rights Reserved. Watch Dogs, Ubisoft and the Ubisoft logo are registered or unregistered trademarks of Ubisoft Entertainment in the U.S. and/or other countries.<br/>",
+    "links": [],
+    "long_desc": "<b>Чтобы играть в эту игру на PS5, возможно, потребуется обновить системное программное обеспечение. Хотя эта игра поддерживается на PS5, некоторые функции, доступные в PS4, могут отсутствовать. Более подробная информация приведена на странице PlayStation.com/bc.</b><br>Создайте группу агентов, вербуя кого угодно из жителей города. Взламывайте технику, проникайте на засекреченные объекты и сражайтесь. Добро пожаловать в сопротивление.<br/> <br/>Вы сможете сыграть за любого лондонца. У каждого - своя история, характер и набор навыков.<br/> <br/>Взламывайте дронов, используйте ботов-пауков и дополненную реальность.<br/> <br/>Исследуйте открытый мир Лондона и выполняйте побочные задания.<br/> <br/>Играйте с друзьями - в бесплатном обновлении появятся новые задания для совместной игры.<br/><br/>Улучшение до версии для PlayStation®5: цифровая версия Watch Dogs Legion для PlayStation®4 предоставляет доступ к цифровой версии Watch Dogs Legion для PlayStation®5 без дополнительной платы после официального выхода платформы. <br/><br/>Требуется PlayStation®5 или PlayStation®5 Digital Edition, регистрация в PlayStation® Network, свободное место и широкополосное соединение с Интернетом. Может потребоваться плата за подключение к Интернету.<br/><br/><br/>Автономная однопользовательская версия<br/>Сетевая многопользовательская игра (2-8 игрока). Требуется оплаченная подписка на PlayStation Plus. Для использования сетевых функций требуется учетная запись. Сетевые функции предоставляются в соответствии с нашими условиями обслуживания (playstationnetwork.com/terms-of-service), нашей политикой конфиденциальности (playstationnetwork.com/privacy-policy) и политикой конфиденциальности издателя игры.<br/>Дополнительные покупки в игре<br/>Для использования сетевых функций требуется учетная запись. Сетевые функции предоставляются в соответствии с условиями обслуживания (playstationnetwork.com/terms-of-service), политикой конфиденциальности (playstationnetwork.com/privacy-policy) и политикой конфиденциальности издателя игры.<br/><br><br>Загрузка осуществляется в соответствии с Условиями обслуживания PlayStation Network, Условиями использования программ и любыми другими применимыми дополнительными документами. Если вы не согласны выполнять условия, не загружайте материалы. Дополнительная информация приведена в Условиях обслуживания.<br><br> Разовая лицензионная плата за право загрузки на несколько систем PS4. Вход в PlayStation Network не требуется при использовании на вашей основной системе PS4, но необходим при использовании на других системах PS4.<br><br>Перед использованием продукта ознакомьтесь с «Мерами предосторожности», важными для вашего здоровья.<br><br>Библиотечные программы ©Sony Interactive Entertainment Inc., эксклюзивно лицензированы Sony Interactive Entertainment Europe. Действуют Условия использования программ. Полный текст Условий использования см. на сайте ru.playstation.com/legal.<br>",
+    "mediaList": {
+        "previews": [
+            {
+                "type": "PREVIEW",
+                "typeId": 2,
+                "source": "PRODUCT_MEDIA",
+                "url": "https://vulcan.dl.playstation.net/img/rnd/202010/2821/GwpFkreBgr69is2RV8akLAij.mp4",
+                "order": 0,
+                "streamUrl": "https://vulcan.dl.playstation.net/ap/bm/9794e2df-7fd0-44a6-9b3c-151b7abf2732-kgru5i5x/master_avc.m3u8",
+                "shots": [
+                    "https://vulcan.dl.playstation.net/img/rnd/202010/2821/NuQPe6gIRl3k2u2AU1gInl7i.png"
+                ]
+            }
+        ]
+    },
+    "media_layouts": [
+        {
+            "type": "description",
+            "height": 1,
+            "width": 4
+        }
+    ],
+    "metadata": {
+        "cn_remotePlay": {
+            "name": "cn_remotePlay",
+            "values": [
+                "FALSE"
+            ]
+        },
+        "cn_vrEnabled": {
+            "name": "cn_vrEnabled",
+            "values": [
+                "FALSE"
+            ]
+        },
+        "cn_playstationMove": {
+            "name": "cn_playstationMove",
+            "values": [
+                "NOTREQUIRED"
+            ]
+        },
+        "secondary_classification": {
+            "name": "secondary_classification",
+            "values": [
+                "GAME"
+            ]
+        },
+        "cn_numberOfNetworkPlayersPSPlus": {
+            "name": "cn_numberOfNetworkPlayersPSPlus",
+            "values": [
+                "8"
+            ]
+        },
+        "cn_vrRequired": {
+            "name": "cn_vrRequired",
+            "values": [
+                "FALSE"
+            ]
+        },
+        "game_genre": {
+            "name": "Жанр",
+            "values": [
+                "UNIQUE",
+                "ADVENTURE",
+                "ACTION"
+            ]
+        },
+        "cn_psEnhanced": {
+            "name": "cn_psEnhanced",
+            "values": [
+                "FALSE"
+            ]
+        },
+        "playable_platform": {
+            "name": "playable_platform",
+            "values": [
+                "PS4™"
+            ]
+        },
+        "cn_numberOfPlayers": {
+            "name": "cn_numberOfPlayers",
+            "values": [
+                "1"
+            ]
+        },
+        "cn_dualshockVibration": {
+            "name": "cn_dualshockVibration",
+            "values": [
+                "FALSE"
+            ]
+        },
+        "tertiary_classification": {
+            "name": "tertiary_classification",
+            "values": [
+                "BUNDLE"
+            ]
+        },
+        "container_type": {
+            "name": "Тип контейнера",
+            "values": [
+                "NP_PS4_REPRESENTATIVE"
+            ]
+        },
+        "genre": {
+            "name": "Жанр",
+            "values": [
+                "Уникальные",
+                "Приключения",
+                "Боевик"
+            ]
+        },
+        "cn_inGamePurchases": {
+            "name": "cn_inGamePurchases",
+            "values": [
+                "OPTIONAL"
+            ]
+        },
+        "cn_psVrAimRequired": {
+            "name": "cn_psVrAimRequired",
+            "values": [
+                "FALSE"
+            ]
+        },
+        "cn_playstationCamera": {
+            "name": "cn_playstationCamera",
+            "values": [
+                "NOTREQUIRED"
+            ]
+        },
+        "cn_singstarMicrophone": {
+            "name": "cn_singstarMicrophone",
+            "values": [
+                "NOTREQUIRED"
+            ]
+        },
+        "cn_crossPlatformPSVita": {
+            "name": "cn_crossPlatformPSVita",
+            "values": [
+                "FALSE"
+            ]
+        },
+        "cn_onlinePlayMode": {
+            "name": "cn_onlinePlayMode",
+            "values": [
+                "OPTIONAL"
+            ]
+        },
+        "cn_psVrAimEnabled": {
+            "name": "cn_psVrAimEnabled",
+            "values": [
+                "FALSE"
+            ]
+        },
+        "primary_classification": {
+            "name": "primary_classification",
+            "values": [
+                "PREMIUM_GAME"
+            ]
+        }
+    },
+    "name": "Watch Dogs: Legion",
+    "pageTypeId": 2,
+    "playable_platform": [
+        "PS4™"
+    ],
+    "promomedia": [
+        {
+            "id": 0,
+            "key": "preview",
+            "type": 2,
+            "url": "https://vulcan.dl.playstation.net/img/rnd/202010/2821/GwpFkreBgr69is2RV8akLAij.mp4?country=RU"
+        },
+        {
+            "anno": "",
+            "id": 8194,
+            "key": "space",
+            "materials": [
+                {
+                    "anno": "",
+                    "countries": [
+                        {
+                            "agelimit": 0,
+                            "uagelimit": 0,
+                            "country": "ru"
+                        },
+                        {
+                            "agelimit": 0,
+                            "uagelimit": 0,
+                            "country": "ua"
+                        }
+                    ],
+                    "data": [
+                        {
+                            "type": 29,
+                            "name": "12a6267f1e644b1a0d015a47fb3a6de851c62418-1214226.txt",
+                            "data": "0JzQk9Cd0J7QktCV0J3QndCr0Jkg0J/Qm9CQ0KLQldCWPGJyPjxicj4NCtCc0Ysg0LLRi9GB0YLQsNCy0LjQvCDRgdGH0LXRgiDQt9CwINC/0YDQtdC00LLQsNGA0LjRgtC10LvRjNC90YvQuSDQt9Cw0LrQsNC3LCDQutC+0LPQtNCwINCy0Ysg0L3QsNC20LzQtdGC0LUgwqvQntGE0L7RgNC80LjRgtGMINC/0YDQtdC00LfQsNC60LDQtyDQuCDQvtC/0LvQsNGC0LjRgtGMwrsuINCS0L7Qt9C80L7QttC90L7RgdGC0Lgg0L7RgtC80LXQvdGLINC+0L/QuNGB0LDQvdGLINC90LAg0YLQvtC5INC20LUg0YHRgtGA0LDQvdC40YbQtSwg0YfRgtC+INC4INC60L3QvtC/0LrQsCDCq9Ce0YTQvtGA0LzQuNGC0Ywg0L/RgNC10LTQt9Cw0LrQsNC3INC4INC+0L/Qu9Cw0YLQuNGC0YzCuy4g0J/RgNC+0YfRgtC40YLQtSDQuNGFINCy0L3QuNC80LDRgtC10LvRjNC90L4uPGJyPjxicj4NCtCd0LDQttC80LjRgtC1IMKr0J/QvtC00YLQstC10YDQtNC40YLRjMK7INC00LvRjyDQv9GA0L7QtNC+0LvQttC10L3QuNGPINC30LDQutCw0LfQsCDQuNC70LggwqvQntGC0LzQtdC90LDCuyDQtNC70Y8g0L7RgtC60LDQt9CwLg=="
+                        }
+                    ],
+                    "desc": "",
+                    "from": "2016-05-03T00:00:00.000Z",
+                    "id": 1080762002,
+                    "lang": [
+                        "8"
+                    ],
+                    "lastm": "2019-12-06T15:33:28.000Z",
+                    "name": "",
+                    "owner": "",
+                    "until": "2100-12-31T23:59:00.000Z"
+                }
+            ],
+            "multi": "ordered",
+            "rep": "t",
+            "type": 99
+        }
+    ],
+    "provider_name": "UBISOFT ENTERTAINMENT SA",
+    "release_date": "2020-10-29T00:00:00Z",
+    "restricted": false,
+    "revision": 34,
+    "short_name": "Watch Dogs: Legion",
+    "size": 0,
+    "sku_links": [],
+    "sort": "static",
+    "star_rating": {
+        "total": "209",
+        "score": "4.16",
+        "count": [
+            {
+                "star": 1,
+                "count": 23
+            },
+            {
+                "star": 2,
+                "count": 11
+            },
+            {
+                "star": 3,
+                "count": 15
+            },
+            {
+                "star": 4,
+                "count": 21
+            },
+            {
+                "star": 5,
+                "count": 139
+            }
+        ]
+    },
+    "start": 0,
+    "timestamp": 1612314065000,
+    "title_name": "Watch Dogs: Legion",
+    "top_category": "downloadable_game",
+    "total_results": 0
+}
