@@ -29,21 +29,21 @@ class Age_limit {
     var name: String? = ""
     var pageTypeId: Int?
     var playable_platform: [String?] = []
-//    var promomedia: [Promomedia] = []
-//    var provider_name: String? = ""
-//    var release_date: String? = ""
-//    var restricted: Bool
-//    var revision: Int?
-//    var short_name: String?
-//    var size: Int?
-//    var sku_links: [Any] = []
-//    var sort: String? = ""
-//    var star_rating: [Star_rating?] = []
-//    var start: Int?
-//    var timestamp: Int?
-//    var title_name: String? = ""
-//    var top_category: String? = ""
-//    var total_results: Int?
+    var promomedia: [Promomedia] = []
+    var provider_name: String? = ""
+    var release_date: String? = ""
+    var restricted: Bool?
+    var revision: Int?
+    var short_name: String?
+    var size: Int?
+    var sku_links: [Any] = []
+    var sort: String? = ""
+    var star_rating: [Star_rating?] = []
+    var start: Int?
+    var timestamp: Int?
+    var title_name: String? = ""
+    var top_category: String? = ""
+    var total_results: Int?
     
     
 }
