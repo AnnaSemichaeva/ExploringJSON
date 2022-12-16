@@ -10,7 +10,7 @@ import Foundation
 class Materials {
     var anno: String? = ""
     var countries: [Countries?] = []
-    var data: [Data?] = []
+    var data: [Data1?] = []
     var desc: String? = ""
     var from: String? = ""
     var id: Int?
@@ -28,8 +28,8 @@ struct Countries: Codable {
     var country: String? = ""
 }
 
-//MARK: - Data
-struct Data: Codable {
+//MARK: - Data1
+struct Data1: Codable {
     var type: Int?
     var name: String? = ""
     var data: String? = ""
