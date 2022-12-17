@@ -13,7 +13,7 @@ class Age_limit {
     var bucket: String? = ""
     var container_type: String? = ""
     var content_origin: Int?
-    var content_rating: Content_rating?  = nil
+    var content_rating: Content_rating? = nil
     var content_type: String? = ""
     var dob_required: Bool?
     var gameContentTypesList: [GameContentTypesList]? = []
@@ -21,7 +21,7 @@ class Age_limit {
     var id: String? = ""
     var images: [Images]? = nil
     var legal_text: String? = ""
-    var links: [Any]? = nil
+    var links: [Int]?
     var long_desc: String? = ""
     var mediaList: MediaList? = nil
     var media_layouts: [Media_layouts]? = nil
@@ -29,14 +29,14 @@ class Age_limit {
     var name: String? = ""
     var pageTypeId: Int?
     var playable_platform: [String?] = []
-    var promomedia: [Promomedia] = []
+    var promomedia: [Promomedia]? = []
     var provider_name: String? = ""
     var release_date: String? = ""
     var restricted: Bool?
     var revision: Int?
     var short_name: String?
     var size: Int?
-    var sku_links: [Any] = []
+    var sku_links: [Int]?
     var sort: String? = ""
     var star_rating: [Star_rating?] = []
     var start: Int?

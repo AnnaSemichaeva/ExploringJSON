@@ -9,7 +9,7 @@ import Foundation
 
 class Attributes {
     var facets: Facets? = nil
-    var next: [Any]? = nil
+    var next: [Int]?
 }
 
 
