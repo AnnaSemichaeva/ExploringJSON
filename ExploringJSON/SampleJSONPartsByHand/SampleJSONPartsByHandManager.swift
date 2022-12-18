@@ -25,11 +25,22 @@ class SampleJSONPartsByHandManager {
         do {
             let data = try Data(contentsOf: URL(fileURLWithPath: path), options: .mappedIfSafe)
             let jsonSerialization = try JSONSerialization.jsonObject(with: data, options: .mutableLeaves)
-            print()
+            
+            //print(">>jsonSerialization: \(jsonSerialization)")
+            
             if let json = jsonSerialization as? [String: Any] {
                 
-                if let age_limit0 = json["Sample"] as? Int {
+                var i = 0
+                for key in json.keys {
+                    print("[\(i)] = \(key)")
+                    i += 1
+                }
+                
+                if let age_limit0 = json["age_limit"] as? Int {
                     age_limit1.age_limit = age_limit0
+                    print(">> age_limit0: \(age_limit0)")
+                } else {
+                    print(">> GG no age limit")
                 }
                 
                 if let bucket = json["Sample"] as? String {
@@ -212,7 +223,7 @@ class SampleJSONPartsByHandManager {
                 print(age_limit1)
             }
         } catch {
-            print("Data err")
+            print("Data err: \(error)")
         }
     }
 }
