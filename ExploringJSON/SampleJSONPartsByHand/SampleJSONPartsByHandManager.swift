@@ -179,6 +179,14 @@ class SampleJSONPartsByHandManager {
                     return
                 }
                 
+                if let name = gameContentTypesList1["name"] as? String {
+                    gameContentTypesList.name = name
+                }
+                
+                if let key = gameContentTypesList1["key"] as? String {
+                    gameContentTypesList.key = key
+                }
+                
                 
                 
                 
