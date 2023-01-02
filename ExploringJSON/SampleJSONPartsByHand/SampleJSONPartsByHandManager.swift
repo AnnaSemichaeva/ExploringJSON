@@ -187,6 +187,8 @@ class SampleJSONPartsByHandManager {
                     gameContentTypesList.key = key
                 }
                 
+                guard let game_contentType1 = json["Sample"] as? [
+                
                 
                 
                 
